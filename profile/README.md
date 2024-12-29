@@ -11,6 +11,7 @@
 
 | Year | Publisher | Title | 
 | ---  | ---       | ---   |
+| 2024 | IEEE ICITEE | [Buck Converter Parameters Design Using Artificial Intelligence-Based Genetic Algorithm](https://ieeexplore.ieee.org/document/10808195) |
 | 2024 | IEEE ICE3IS | [The Modular Multilevel Converter (MMC) Lower Level Control Implementation](https://ieeexplore.ieee.org/abstract/document/10775570) |
 | 2024 | IEEE AIMS | [Efficient EV Charging using Optimal DC-DC DAB 400 V to 115 V with GaN GS66508T](https://ieeexplore.ieee.org/abstract/document/10512463) |
 | 2023 | IEEE ISRITI | [IGBT Losses Analysis of a Three-Phase Rectifier Converter on Hybrid Train](https://ieeexplore.ieee.org/abstract/document/10467279) |
